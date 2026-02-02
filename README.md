@@ -32,8 +32,8 @@ This project was developed as a learning project to practice C++ programming con
 4. Run the executable file 
 
 Project Structure
-Amber Bakery Automated Billing System.cpp
-bakery_items.txt
-company_details.txt
-sales_records.txt
-README.md
+1. Amber Bakery Automated Billing System.cpp
+2. bakery_items.txt
+3. company_details.txt
+4. sales_records.txt
+5. README.md
