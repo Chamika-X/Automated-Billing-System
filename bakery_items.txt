@@ -1,0 +1,7 @@
+Cake,80,40
+Desserts,150,55
+Cookies,70,60
+Coffies,80,50
+Breads,160,60
+Bun,40,38
+Cheesecake,200,40
